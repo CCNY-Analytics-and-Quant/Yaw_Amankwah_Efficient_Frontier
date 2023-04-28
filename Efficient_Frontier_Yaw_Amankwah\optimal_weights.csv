@@ -1,11 +1,11 @@
-Portfolio#,307207
-Portfolio_Returns,0.3736
-Portfolio_Volatility,0.323
-Sharpe_Ratio,0.7550899695270431
-AAPL Weight,0.5223
-CNP Weight,0.0019
-F Weight,0.0027
-GE Weight,0.0281
-QCOM Weight,0.0444
-TSLA Weight,0.3819
-WMT Weight,0.0186
+Portfolio#,1248393
+Portfolio_Returns,0.3848
+Portfolio_Volatility,0.3368
+Sharpe_Ratio,0.7566450171214827
+AAPL Weight,0.4309
+CNP Weight,0.009
+F Weight,0.0091
+GE Weight,0.0078
+QCOM Weight,0.0377
+TSLA Weight,0.4442
+WMT Weight,0.0612
